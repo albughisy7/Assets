@@ -1,3 +1,4 @@
+.CodeMirror pre.CodeMirror-placeholder { color: #999; }
 .cm-s-abbott.CodeMirror {
     background: var(--bgMain);
     color: #557bf6;
